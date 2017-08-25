@@ -1,0 +1,26 @@
+{
+  "name": "peat-sales",
+  "version": "1.0.0",
+  "description": "website to sell peat",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github2021/peat-sales.git"
+  },
+  "author": "K N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github2021/peat-sales/issues"
+  },
+  "homepage": "https://github.com/github2021/peat-sales#readme",
+  "devDependencies": {
+    "protractor": "^5.1.2"
+  },
+  "dependencies": {
+    "angular": "^1.6.5",
+    "lodash": "^4.17.4"
+  }
+}
