@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/github2021/peat-sales#readme",
   "devDependencies": {
-    "protractor": "^5.1.2"
+    "grunt": "^1.0.1",
+    "gulp": "^3.9.1",
+    "less": "^2.7.2",
+    "sass": "^1.0.0-beta.2"
   },
   "dependencies": {
     "angular": "^1.6.5",
